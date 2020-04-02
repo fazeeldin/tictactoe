@@ -4,3 +4,5 @@ This is a simple game of tic tac toe. Tic Tac Toe is a 2 player game. And the wa
 The game is made using python concepts of funcions, list, parameter passing, while loop and break.
 
 A video has been uploaded on my YouTube channel with explanation for almost every line of code. Visit https://youtu.be/QBBb4yXs5pg for the video.
+
+I would suggest you to install Jupyter Notebook in order to view the TicTacToe.ipynb file.
